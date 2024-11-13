@@ -23,6 +23,11 @@ A list of resources that are useful for the National Cyber League Competition.
   - Command to extract message: `steghide -sF <filename>`
 - [Binwalk](https://www.kali.org/tools/binwalk/): Binwalk is used to extract files that are hidden in another file. Run `binwalk --dd='.*' <filename>` to extract all hidden files.
 
+---
+Team challenge 2024:
+- [jefferon] https://jeffersondisk.kuts.ch/
+
+
 ## Password Cracking
 - [Hash Generator](https://www.browserling.com/tools/all-hashes): You will probably be asked to compute the hashes of some passwords. This site generates many hashes all at once. Select what you need and paste it into the answer box. 
 - [Hashes.com](hashes.com): Lookup known hash values here. It is a good first step on any password cracking questions. Often, even a couple of the hard passwords can be found here.
