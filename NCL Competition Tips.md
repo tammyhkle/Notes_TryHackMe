@@ -132,7 +132,12 @@ Team challenge 2024:
 - [Postman](https://www.postman.com/downloads/): Postman helps create and repeate API calls. This can help get information out of a server anv easily view what the server is sending back. It is easy to save API calls for later to rerun or modify after you discover more information. 
 - [sqlmap](SQLMap): sqlmap is used to automatically detect and exploit sql injection vulnerabilities.
 - [Exploit DB](https://www.exploit-db.com/): Once you know what services or what OS is running on a server, look that up in Exploit DB and see what vulnerabilities may exist that you can take advantage of. 
-- [Metasploit](https://docs.rapid7.com/metasploit/getting-started/): Metasploit is very versitile and can help with many problems. Once you understand the server, what is running on it, and what vulnerabilities it may have, jump into Metasploit and see if there are any modules that may be helpful. 
+- [Metasploit](https://docs.rapid7.com/metasploit/getting-started/): Metasploit is very versitile and can help with many problems. Once you understand the server, what is running on it, and what vulnerabilities it may have, jump into Metasploit and see if there are any modules that may be helpful.
+
+---
+
+Team challenge 2024:
+- https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references
 
 ## Enumeration & Exploitation
 - [Ascii Table](https://www.asciitable.com/): Many enumeration and exploitation questions use ascii in some way. So, knowing how to decode ascii is an important skill. 
